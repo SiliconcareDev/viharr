@@ -1,0 +1,43 @@
+[2024-10-22 11:23:11] production.WARNING: sendNewBookingEmails: An email must have a "To", "Cc", or "Bcc" header.  
+[2024-10-22 11:23:11] production.INFO: array (
+  'to' => '112 666 888',
+  'message' => 'Subject: Your Booking Confirmation
+
+Dear Customer ,
+
+Thank you for your booking!
+
+Your Booking Details:
+
+Booking ID: 52
+Service Name: Hotel Saffron Inn
+Price: 6148.80
+Start Date: 2024-10-24 00:00:00
+Total Guests: 1
+We look forward to welcoming you! If you have any questions, feel free to reach out.
+
+Warm regards,
+Viharr',
+  'time' => 1729576391,
+)  
+[2024-10-22 11:23:11] production.INFO: array (
+  'to' => '+919119479595',
+  'message' => 'Subject: New Booking Created
+
+Dear Administrator,
+
+A new booking has been successfully created.
+
+Details:
+
+Booking ID: 52
+Service Name: Hotel Saffron Inn
+Price: 6148.80
+Start Date: 2024-10-24 00:00:00
+Total Guests: 1
+Please review the booking details in the admin panel.
+
+Best regards,
+Viharr',
+  'time' => 1729576391,
+)  

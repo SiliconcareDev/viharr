@@ -1,0 +1,1346 @@
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "STAY GREENWICH VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=11",
+    "idNotification": "369500c6-405d-4a7a-a8c3-82097e5f7b7b",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "STAY GREENWICH VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=11",
+    "idNotification": "3cbcd313-b8b0-4469-b693-ed3741cd34aa",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "LILY DALE VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=10",
+    "idNotification": "6dcd9f8f-e5fa-41c1-a958-b876896d4393",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "LUXURY SINGLE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=9",
+    "idNotification": "078c5406-6961-4f9a-835f-d9383bb0f830",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "LUXURY SINGLE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=9",
+    "idNotification": "e1aac7b1-2058-48f1-9ce9-71371c1cfb5d",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "PARIS GREENWICH VILLA has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=8",
+    "idNotification": "62e2e2cb-f242-45d2-86a0-d3d929724c41",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "PARIS GREENWICH VILLA has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=8",
+    "idNotification": "71a5dd5f-bae2-438d-8c0b-f95f45b7fa5a",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "EAST VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=7",
+    "idNotification": "bce44f68-09e6-4598-8b3a-d8ddc41c59ad",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "EAST VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=7",
+    "idNotification": "671e4d2f-2908-469e-8140-4bc592288429",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "THE MEATPACKING SUITES has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=6",
+    "idNotification": "09393a8a-5bad-495d-be86-6d38bd4c82ae",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "THE MEATPACKING SUITES has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=6",
+    "idNotification": "e674934a-3e3f-4a3f-8c3f-f657a22721d2",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "DUPLEX GREENWICH has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=5",
+    "idNotification": "a9706782-42d9-44a2-bcb4-9db08b474685",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "DUPLEX GREENWICH has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=5",
+    "idNotification": "bd03e12d-d912-4064-96e4-a76b7c56cc5b",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BEST OF WEST VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=4",
+    "idNotification": "53b30a58-358a-4bb0-a11b-38655fba73c5",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "BEST OF WEST VILLAGE has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=4",
+    "idNotification": "451699c7-e24b-4cb6-8737-a96ce494e0e0",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BEAUTIFUL LOFT has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=3",
+    "idNotification": "2ac5f598-0079-4580-b154-475fadfea37c",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "BEAUTIFUL LOFT has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/space?id=3",
+    "idNotification": "a3749981-21e8-45af-9f70-cef90358a52a",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "LUXURY APARTMENT has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=2",
+    "idNotification": "0373ee6e-02ee-48d6-a16e-65607a56b956",
+    "socket": null
+}  
+[2024-07-01 16:03:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "LUXURY STUDIO has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space?id=1",
+    "idNotification": "cfe6787c-c5e7-43b5-bc8e-e36b8c80bfde",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=16",
+    "idNotification": "e060f245-3575-4cfa-a947-4ba2a51a97a0",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=15",
+    "idNotification": "a0d332ef-8eb6-4561-a7af-f24254ba336f",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=15",
+    "idNotification": "b5313b32-b183-4d3c-bc0b-290f1a170f1d",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "San Francisco Express Never Ceases has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=14",
+    "idNotification": "940c98ef-6cad-462c-95ee-878378e926f5",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hollywood Sign Small Group Tour in Luxury Van has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=13",
+    "idNotification": "4200f13a-e972-4b54-8e61-7322a6f2da6f",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Hollywood Sign Small Group Tour in Luxury Van has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=13",
+    "idNotification": "0d8c4bfa-f56f-409a-bc81-75e00b49e689",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Segway Tour of Washington, D.C. Highlights has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=12",
+    "idNotification": "381cf099-146d-4535-992c-c31790afc2f7",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Trip of New York \u2013 Discover America has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=11",
+    "idNotification": "e5ab581b-0ba8-46a3-a92c-1fcb657503b2",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Trip of New York \u2013 Discover America has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=11",
+    "idNotification": "d562c086-abda-4482-a823-5d3d41b67c08",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Giverny and Versailles Small Group Day Trip has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=10",
+    "idNotification": "ec7ac5a1-a87a-45f2-b7e9-07e74d0b25ac",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Giverny and Versailles Small Group Day Trip has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=10",
+    "idNotification": "61b2d593-bf55-4a25-b064-0bd8df5134d3",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Tastes and Sounds of the South 2019 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=9",
+    "idNotification": "aeffde4b-27db-455a-8e0c-91e9839c5542",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Tastes and Sounds of the South 2019 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=9",
+    "idNotification": "514b12fb-999e-4612-969b-6bd800cdb706",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Pure Luxe in Punta Mita has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=8",
+    "idNotification": "7ed5efa4-d6c0-4f27-af73-3f527f4d31b4",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Pure Luxe in Punta Mita has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=8",
+    "idNotification": "bb35b926-f516-472b-ace1-b0604d52019f",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Eastern Discovery has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=7",
+    "idNotification": "6a1e6a09-73d1-497f-8a90-cfcddf87d922",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Eastern Discovery has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=7",
+    "idNotification": "051da55f-fb83-483d-9265-c88a73dd55fe",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Eastern Discovery (Start New Orleans) has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=6",
+    "idNotification": "0b59f01b-1930-4a96-9a06-96eb19ff6727",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Eastern Discovery (Start New Orleans) has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=6",
+    "idNotification": "61574f93-aaed-4b57-88bc-46289741968f",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Southwest States (Ex Los Angeles)  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=5",
+    "idNotification": "46e510ed-971e-4db5-9181-a42001ee3fe3",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Southwest States (Ex Los Angeles)  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=5",
+    "idNotification": "c8d1eea4-85cf-413e-a9bd-e258b695fa08",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Paris Vacation Travel  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=4",
+    "idNotification": "b2bbcce0-b6d3-48bf-adf9-d2384e017314",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Los Angeles to San Francisco Express  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=3",
+    "idNotification": "d0d78197-92ec-4c6e-a1d5-be82f966c7dc",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Los Angeles to San Francisco Express  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/tour?id=3",
+    "idNotification": "7b013bb7-0370-432b-8002-7438a4b2014e",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "New York: Museum of Modern Art has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=2",
+    "idNotification": "95a90960-c26c-4a3e-9434-5aa743894b86",
+    "socket": null
+}  
+[2024-07-01 16:03:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "American Parks Trail end Rapid City has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/tour?id=1",
+    "idNotification": "a38e853a-ded6-4fc6-82a8-820bbca41af4",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Rickey Renner has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=20",
+    "idNotification": "4819ee17-b5f6-405b-a9fa-cefb87063a03",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Marjory DuBuque has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=19",
+    "idNotification": "a0e6d936-0429-4098-a377-a0dcfee9b839",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Emilio Schinner has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=18",
+    "idNotification": "69b6daf1-7453-4222-8a71-90ef28487f3a",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mr. Arlo Koss III has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=17",
+    "idNotification": "ae16dd02-545d-4376-9b65-c1b4e118db08",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Prof. Orrin Berge DVM has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=16",
+    "idNotification": "11e872aa-64ff-4d02-ba93-0643ca0ff80c",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Myrtie Gleason has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=15",
+    "idNotification": "9488397b-6062-4e95-b8b2-b992ddd160d3",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mr. Chaim Schoen has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=14",
+    "idNotification": "9681894e-eebb-407f-ac51-8ea018e825c4",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Theodore White has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=13",
+    "idNotification": "aa7b71a1-9d4d-4d45-b1dd-4b6cf657c14a",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Efren Collins has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=12",
+    "idNotification": "3f952e7f-03e3-4cd5-940f-3d35b74e1db8",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mario Shields has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=11",
+    "idNotification": "4b724afc-423e-4f16-9872-7a9b5ce54be7",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hope Sporer IV has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=10",
+    "idNotification": "ea2fb920-8674-4fc9-a734-a41c23fef748",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mrs. Mireille Hand has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=9",
+    "idNotification": "05cf419e-525e-4f38-9a3f-00397d5673c2",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mr. Elmer Stanton has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=8",
+    "idNotification": "ea026d8c-43cf-477b-8647-5d07a1a026b1",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Nannie Kuhn DDS has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=7",
+    "idNotification": "e9638041-154c-49e9-80c0-27608f2a57da",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Noe Huel has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=6",
+    "idNotification": "c4355929-f570-4cbd-af3b-7503d5b42a1b",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Julian Wunsch has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=5",
+    "idNotification": "063c1c9c-03a6-49c1-b3d7-979e79539a7c",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Yessenia Kub has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=4",
+    "idNotification": "b02cf314-08d2-4e04-9ffa-0116f6133804",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Tomasa Bins has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=3",
+    "idNotification": "9db51106-75df-4f65-831b-ffd5a13a946d",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Miss Katelyn Heller has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=2",
+    "idNotification": "6d3feba8-d6b9-47b9-af27-321151762653",
+    "socket": null
+}  
+[2024-07-01 16:03:51] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Preston Hayes DVM has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/flight?id=1",
+    "idNotification": "47de58d1-1490-4e55-94fb-d4a431ff21c8",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vinfast Fadil Standard has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=13",
+    "idNotification": "ffe75688-389d-4f61-9b3a-35b79f8955cc",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Vinfast Fadil Standard has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=13",
+    "idNotification": "89bac088-c64d-4625-ac52-3dcd8e03771c",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vinfast Lux A2.0 Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=12",
+    "idNotification": "0479e2e7-7e9e-4a81-a270-7937b3b016cd",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Vinfast Lux A2.0 Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=12",
+    "idNotification": "d9aaf80e-384e-463f-85f0-803f15ecacce",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vinfast Lux V8 (SUV) has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=11",
+    "idNotification": "68b11193-cef6-4125-b338-28016c1cdabd",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Vinfast Lux V8 (SUV) has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=11",
+    "idNotification": "d84e1ae1-0b99-47e6-8a62-4c59ab821db2",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Toyota Prius Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=10",
+    "idNotification": "438175a7-190c-4527-9e9b-831ea4cb41d7",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Toyota Prius Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=10",
+    "idNotification": "0370cdc8-bd13-4f87-971f-b3e67711ac47",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Honda Civic has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=9",
+    "idNotification": "efa95400-4fd1-40fc-a89b-01bc73cf9978",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Honda Civic has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=9",
+    "idNotification": "46c9bc35-44d1-462b-ab4b-93036de805de",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vinfast Lux SA2.0 Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=8",
+    "idNotification": "98b6e038-f794-4e7d-86d2-f80b681130bb",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Vinfast Lux SA2.0 Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=8",
+    "idNotification": "e10c6901-45a4-436d-8207-b18096c2c490",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Mercedes Benz has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=7",
+    "idNotification": "7585915f-11ed-4982-ae03-94318b3d9482",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Mercedes Benz has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=7",
+    "idNotification": "7fdb2c5c-ecd7-4503-b940-8cf3cbe4d04b",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vinfast Fadil Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=6",
+    "idNotification": "926e37b6-9e4d-44b8-bab0-ac265cec8c15",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Vinfast Fadil Plus has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/car?id=6",
+    "idNotification": "54d733a1-12cc-45b7-b47f-0847d5da5485",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "2019 Audi S3 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=5",
+    "idNotification": "d9f8779c-6773-4427-b3a2-5bec61294b39",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "2019 BMW M6 Gran Coupe has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=4",
+    "idNotification": "c1a0b1c1-d72a-4dd8-9c6f-a5b931fe5a08",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "2019 Honda Clarity has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=3",
+    "idNotification": "1bd01e69-9cfd-4374-bfb1-68e82ef85be6",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "2019 Honda Clarity has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=2",
+    "idNotification": "f20e13e6-dbe7-47e9-9d63-7d06f272a980",
+    "socket": null
+}  
+[2024-07-01 16:04:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BMW-X6-facelift has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/car?id=1",
+    "idNotification": "a3979d88-c4b5-495b-a1cb-cb60ed59f824",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "My Way 100 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=13",
+    "idNotification": "2c65c380-33f3-4e3a-8f3c-84fbf517d6c9",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "My Way 100 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=13",
+    "idNotification": "2e086182-7f91-47b9-b77a-d628b686abba",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Ohana 3X has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=12",
+    "idNotification": "891d34cf-e6de-4a31-b050-0fc858f0306a",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Ohana 3X has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=12",
+    "idNotification": "39ebf62b-02e9-40f4-9568-70e4d84b4b2b",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Freedom M2 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=11",
+    "idNotification": "b1b3d7e1-5be7-4a69-bed0-1a4f683a4a0a",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Freedom M2 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=11",
+    "idNotification": "bf14dac5-1959-4e1f-ad00-934578ff3f0a",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Endless Summer W-10 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=10",
+    "idNotification": "249860c2-a3a2-443a-861a-c42ad0254d09",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Endless Summer W-10 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=10",
+    "idNotification": "e0a67d32-3197-4dc7-8702-0f2e2dfd0a06",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Destiny 6 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=9",
+    "idNotification": "c19c3ce7-e467-4860-a5cb-83adf404a91d",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Destiny 6 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=9",
+    "idNotification": "73a66bff-dc54-4718-9cd7-e52072b86e34",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Carpe Diem LA has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=8",
+    "idNotification": "b5638ff3-bff4-41ab-8e0a-67d4650c58c7",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Carpe Diem LA has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=8",
+    "idNotification": "c0197733-2c54-4c9a-9f86-fd6ebe0d94da",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Blue Moon YC-300 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=7",
+    "idNotification": "51e691f6-1150-465e-9679-34badfde1124",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Blue Moon YC-300 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=7",
+    "idNotification": "6558d392-f124-4b0d-815f-e46b69933478",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Blue Dream TC-20 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=6",
+    "idNotification": "af29b111-2e7a-43ec-bfa2-4c8edc23b8c5",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Blue Dream TC-20 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/boat?id=6",
+    "idNotification": "4884877f-8e69-4c9e-923c-233586c4856a",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andiamo MX-3 has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=5",
+    "idNotification": "128f7ef2-c8cd-4de1-a2fa-77db958886da",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "BOAT 1992 ALISON has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=4",
+    "idNotification": "5587f831-374e-4ec5-810c-f31ab80eac7d",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Blue Moon Cruising has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=3",
+    "idNotification": "d941270a-4ec4-4097-9767-de57cf3291c6",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Summer Breeze has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=2",
+    "idNotification": "fb83d0fc-05ee-4f08-a04a-491b8b6ada7a",
+    "socket": null
+}  
+[2024-07-01 16:04:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cruising Yacht has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/boat?id=1",
+    "idNotification": "91392b21-816f-42b0-b149-bf5509157149",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Event of Washington, D.C. Highlights has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=12",
+    "idNotification": "ca072c6a-7187-4090-b659-88ae3485d05f",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "New York \u2013 Discover America has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=11",
+    "idNotification": "b4a6f784-ff0d-4a05-85c8-d1486f9575e6",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "New York \u2013 Discover America has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=11",
+    "idNotification": "67cdf65b-583f-48f6-940f-bafb85cb8b3d",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Origami Crane Wedding Planners has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=10",
+    "idNotification": "f3ec87bc-8950-4ef2-a330-e6adbf77aa43",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Origami Crane Wedding Planners has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=10",
+    "idNotification": "52ba78bd-f94a-479f-850e-7322b0a480a4",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Northern Lights Event Planners has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=9",
+    "idNotification": "fee48fe1-e401-472f-9d43-9df39122a18f",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Northern Lights Event Planners has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=9",
+    "idNotification": "6836701f-c8f8-4d72-b7fe-3e3a8e01d669",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Pink Crescent Moon Events has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=8",
+    "idNotification": "8452c37c-3142-4bb5-b964-d2d05bb3f8bd",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Pink Crescent Moon Events has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=8",
+    "idNotification": "a56db2d9-2d14-4a6f-87de-d2da9ac7e97e",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Eastern Discovery has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=7",
+    "idNotification": "b901dd2a-344d-4711-8aea-dc4b32a07e1c",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "Eastern Discovery has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=7",
+    "idNotification": "7ec43db9-0c87-4047-b0dd-32705c6616ae",
+    "userId": 5,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Spanish Moss Event Design has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=6",
+    "idNotification": "b26c50ae-61da-4e73-9fa8-3001b7bc76cf",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Spanish Moss Event Design has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=6",
+    "idNotification": "e1cdb103-bc92-433d-aadd-4ce76fb5f405",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Southwest States (Ex Los Angeles)  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=5",
+    "idNotification": "730f8e38-fa6f-4616-a28b-0463247262ff",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Southwest States (Ex Los Angeles)  has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Elise Aarohi\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=5",
+    "idNotification": "192f0e5c-875e-4f8d-8808-f92871b93d83",
+    "userId": 4,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Aspen Glade Weddings & Events has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=4",
+    "idNotification": "87d6eed5-7b62-4905-8b24-fe2f7a4fd6c0",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Bamboo Grove Event Planning has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=3",
+    "idNotification": "c850f4ae-9689-47ef-8a15-3d83a3e04b61",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Bamboo Grove Event Planning has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Lynne Victoria\">",
+    "link": "https:\/\/clubsilicon.in\/user\/event?id=3",
+    "idNotification": "7582e785-ef07-4fc5-955d-f10d5c308958",
+    "userId": 6,
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Painted Desert Event Designs has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=2",
+    "idNotification": "6d4cab29-ec88-43e2-a4ec-e4dcee97dbb8",
+    "socket": null
+}  
+[2024-07-01 16:04:37] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Andante & Allegro Event Design has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/event?id=1",
+    "idNotification": "7cfbbe2a-d994-43fd-b94e-d2800e51567e",
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Satrangi Hotel has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=15",
+    "idNotification": "02694a32-3d3d-405b-8100-c06492d2c403",
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-11] with payload:
+{
+    "message": "Satrangi Hotel has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=15",
+    "idNotification": "34b63d21-e745-4cf9-b732-316895a17098",
+    "userId": 11,
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Blue Niles has been deleted by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=14",
+    "idNotification": "85353487-c101-49d4-9ba5-59a38b9d2793",
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Blue Niles has been deleted by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=14",
+    "idNotification": "f7fe1228-0402-41da-9b64-2f1005a8895d",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Westin has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=13",
+    "idNotification": "4bd719a6-6f8d-497d-9913-9c45ea8d0db3",
+    "socket": null
+}  
+[2024-07-01 17:18:10] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-7] with payload:
+{
+    "message": "Westin has been deleted by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Test\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=13",
+    "idNotification": "b1022877-177e-47b7-b1e2-1df95c95a474",
+    "userId": 7,
+    "socket": null
+}  
+[2024-07-01 17:20:41] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "949ff25e-110c-446d-81d0-92eae5b34a7b",
+    "socket": null
+}  
+[2024-07-01 17:20:41] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "b9b62d1e-4dcc-44eb-99d5-a5b321b98b49",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 17:20:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Ritz Hotel was updated to Draft by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=12",
+    "idNotification": "bf92f177-8b97-4248-a0af-84a01d18b595",
+    "socket": null
+}  
+[2024-07-01 17:20:57] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-7] with payload:
+{
+    "message": "Ritz Hotel was updated to Draft by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Test\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=12",
+    "idNotification": "cc1dabaa-df38-4cc5-839e-1392ba68c169",
+    "userId": 7,
+    "socket": null
+}  
+[2024-07-01 17:22:04] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "ca2111d1-944e-4d22-83cc-707256952d22",
+    "socket": null
+}  
+[2024-07-01 17:22:05] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "9b109a3d-5c4f-4550-9536-716f468c41d2",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 17:24:07] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "a4f1bdc1-c545-4de9-b61f-6852ddb2e5d7",
+    "socket": null
+}  
+[2024-07-01 17:24:07] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "8409e866-6497-4a65-a10e-bb5048198fa5",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 17:24:44] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "e92dce79-49a6-4de6-b9e1-2a61eaf4d9b5",
+    "socket": null
+}  
+[2024-07-01 17:24:44] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "de9cff4f-2f8e-4409-9fc7-c021a5fe2007",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 17:34:24] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "77348c02-9cad-4203-861d-7b713933909b",
+    "socket": null
+}  
+[2024-07-01 17:35:08] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "4f858be8-50d2-43d1-93c4-6558f9193deb",
+    "socket": null
+}  
+[2024-07-01 18:23:58] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "7f902114-e8f2-494d-9281-a850f97dccd2",
+    "socket": null
+}  
+[2024-07-01 18:23:58] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "549e1142-befa-4151-8c81-69804ee40b18",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:25:42] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "81f7a5b5-5dac-4f6b-bfc3-67eab1b6dac9",
+    "socket": null
+}  
+[2024-07-01 18:25:42] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "1c8f222d-cd11-456f-b106-b7508df9b3bb",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:27:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "66514547-f43c-4331-adc9-808670f4ed0a",
+    "socket": null
+}  
+[2024-07-01 18:27:12] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "e5d934ec-f7df-49c5-92ed-fa60e497fd4f",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:27:25] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "0c228e4c-6ac1-4b47-ac9c-7088bb22133e",
+    "socket": null
+}  
+[2024-07-01 18:27:25] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "f161bb37-f01b-44b2-a25c-4fa7ac2483cc",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:28:03] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "d02df23c-a35a-428d-b94c-76a0b1076b77",
+    "socket": null
+}  
+[2024-07-01 18:28:03] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "b98ce4da-1766-4835-bf8b-2d609437a984",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:28:15] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "a142265e-5e25-42f0-9003-048a0adc9172",
+    "socket": null
+}  
+[2024-07-01 18:28:15] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "b6f8abec-e466-4451-a4d0-d832edc623cc",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:41:54] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "14581abd-4151-4d8f-bd4c-d98c72aa2abf",
+    "socket": null
+}  
+[2024-07-01 18:41:54] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "e6377194-165a-4480-ab1b-ad948b0c72d7",
+    "userId": 10,
+    "socket": null
+}  
+[2024-07-01 18:42:23] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "aa658cca-bf3c-4183-ae6d-e9997d4b5ad3",
+    "socket": null
+}  
+[2024-07-01 18:42:23] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=16",
+    "idNotification": "77c430d7-5e8b-4ee1-a245-15ac060c08a9",
+    "userId": 10,
+    "socket": null
+}  

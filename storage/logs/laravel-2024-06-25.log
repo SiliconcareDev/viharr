@@ -1,0 +1,24 @@
+[2024-06-25 10:28:11] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Sanjay Thakur has created hotel Hotel Comfort Inn Executive",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/16",
+    "idNotification": "a057bafc-5532-47de-abad-ae6d105c01b7",
+    "socket": null
+}  
+[2024-06-25 10:28:49] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "178278f6-1f63-49a1-ac92-9f9031906b24",
+    "socket": null
+}  
+[2024-06-25 10:38:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Inn Executive was updated to Publish by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=16",
+    "idNotification": "c30672ca-055a-4a62-a316-3d437fdef14f",
+    "socket": null
+}  

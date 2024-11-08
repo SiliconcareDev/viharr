@@ -1,0 +1,82 @@
+[2024-07-04 11:51:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Demo Demo has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Demo Demo\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=13",
+    "idNotification": "d580d1b4-a4fc-445c-acb7-80033732a1c4",
+    "socket": null
+}  
+[2024-07-04 11:58:09] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demo1 demo1 has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demo1 demo1\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=14",
+    "idNotification": "62769051-63ff-44e0-a77a-cd2cfcbb9af7",
+    "socket": null
+}  
+[2024-07-04 12:03:52] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demoaccount demoaccount has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoaccount demoaccount\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=15",
+    "idNotification": "efaa9bb1-ab5a-49ef-8ad0-5f2ca26276f0",
+    "socket": null
+}  
+[2024-07-04 14:52:25] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demoaccount demoaccount has requested to become a vendor",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoaccount demoaccount\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user\/userUpgradeRequest",
+    "idNotification": "3be86a3b-5178-45f5-becd-f611512cab53",
+    "socket": null
+}  
+[2024-07-04 14:54:43] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-15] with payload:
+{
+    "message": "Your upgrade request has approved already",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoaccount demoaccount\">",
+    "link": "https:\/\/clubsilicon.in\/user\/dashboard",
+    "idNotification": "59b2b7c6-6578-47c0-a0ce-17fea5567fbb",
+    "userId": 15,
+    "socket": null
+}  
+[2024-07-04 15:43:55] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demoa demoa has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=16",
+    "idNotification": "5d8ece09-690c-47f6-84c8-94965626d39c",
+    "socket": null
+}  
+[2024-07-04 15:44:09] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demoa demoa has requested to become a vendor",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user\/userUpgradeRequest",
+    "idNotification": "9e8e504c-ee28-4ece-b178-4652fecedaba",
+    "socket": null
+}  
+[2024-07-04 15:44:53] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-16] with payload:
+{
+    "message": "Your upgrade request has approved already",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/user\/dashboard",
+    "idNotification": "b8305941-7fa9-4241-856a-4de66c9b19b2",
+    "userId": 16,
+    "socket": null
+}  
+[2024-07-04 16:15:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "demoa demoa has created hotel Hotel Comfort Executive New",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/17",
+    "idNotification": "ba39bf15-22f2-4c84-a8aa-6c64320a5a7c",
+    "socket": null
+}  
+[2024-07-04 16:16:02] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Executive New was updated to Publish by demoa demoa",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=17",
+    "idNotification": "b398f57b-ec6b-4d24-bf9a-cf23457eb818",
+    "socket": null
+}  

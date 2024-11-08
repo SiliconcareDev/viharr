@@ -1,0 +1,43 @@
+[2024-10-14 09:49:44] production.WARNING: sendNewBookingEmails: An email must have a "To", "Cc", or "Bcc" header.  
+[2024-10-14 09:49:44] production.INFO: array (
+  'to' => '112 666 888',
+  'message' => 'Subject: Your Booking Confirmation
+
+Dear Customer ,
+
+Thank you for your booking!
+
+Your Booking Details:
+
+Booking ID: 39
+Service Name: Amoravida 7 Apple Resorts
+Price: 4480.00
+Start Date: 2024-10-14 00:00:00
+Total Guests: 1
+We look forward to welcoming you! If you have any questions, feel free to reach out.
+
+Warm regards,
+Viharr',
+  'time' => 1728879584,
+)  
+[2024-10-14 09:49:44] production.INFO: array (
+  'to' => '+919119479595',
+  'message' => 'Subject: New Booking Created
+
+Dear Administrator,
+
+A new booking has been successfully created.
+
+Details:
+
+Booking ID: 39
+Service Name: Amoravida 7 Apple Resorts
+Price: 4480.00
+Start Date: 2024-10-14 00:00:00
+Total Guests: 1
+Please review the booking details in the admin panel.
+
+Best regards,
+Viharr',
+  'time' => 1728879584,
+)  

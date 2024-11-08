@@ -1,0 +1,17 @@
+9999999999s:350:"Subject: Your Booking Confirmation
+
+Dear Customer ,
+
+Thank you for your booking!
+
+Your Booking Details:
+
+Booking ID: [booking_id]
+Service Name: [service_name]
+Price: [price]
+Start Date: [start_date]
+Total Guests: [total_guests]
+We look forward to welcoming you! If you have any questions, feel free to reach out.
+
+Warm regards,
+Viharr";

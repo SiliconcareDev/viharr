@@ -1,0 +1,17 @@
+[2024-07-03 12:58:28] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/report\/booking",
+    "idNotification": "3b28a5d3-babd-4e48-9268-57edf64658bd",
+    "socket": null
+}  
+[2024-07-03 12:58:28] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Vaibhav Bhand has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/vendor\/booking-report",
+    "idNotification": "a2486ba8-65f5-4980-8c14-27b0ffed454e",
+    "userId": 10,
+    "socket": null
+}  

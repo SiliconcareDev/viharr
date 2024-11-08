@@ -1,0 +1,141 @@
+[2024-06-24 12:39:10] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Your has created a plan request",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/my-plan",
+    "idNotification": "7ef8cc13-1509-481b-b80c-88a7fd512c02",
+    "userId": 10,
+    "socket": null
+}  
+[2024-06-24 12:39:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Sanjay Thakur has created a plan request",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user\/plan?s=10",
+    "idNotification": "a5457ab6-c72f-422d-94f2-b7afed39dc14",
+    "socket": null
+}  
+[2024-06-24 13:15:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Test has created hotel Westin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Test\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/13",
+    "idNotification": "8801cd9c-813f-4f35-9e62-8e8e8f41b2c4",
+    "socket": null
+}  
+[2024-06-24 13:18:46] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-10] with payload:
+{
+    "message": "Your plan request has been approved",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/user\/my-plan",
+    "idNotification": "471da48b-fb38-4c54-bc63-b1e345f6905e",
+    "userId": 10,
+    "socket": null
+}  
+[2024-06-24 13:18:46] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Sanjay Thakur plan request has been approved",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user\/plan?s=10",
+    "idNotification": "b1ed1b18-0bec-4c4c-baf1-6defe84068a2",
+    "socket": null
+}  
+[2024-06-24 13:20:08] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Sanjay Thakur has created hotel Blue Niles",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/14",
+    "idNotification": "90604dfd-ccec-432f-a3e7-cf042ea371fb",
+    "socket": null
+}  
+[2024-06-24 13:20:42] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Blue Niles was updated to Publish by Sanjay Thakur",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Sanjay Thakur\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=14",
+    "idNotification": "507c5fc8-d63a-46aa-87ee-f1f7b362cb37",
+    "socket": null
+}  
+[2024-06-24 14:22:46] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=11",
+    "idNotification": "14f412e9-410e-4e83-865e-6c58b8e1537d",
+    "socket": null
+}  
+[2024-06-24 14:25:36] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "pass test has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"pass test\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user?s=12",
+    "idNotification": "3af47e42-6bfa-4931-a735-86ed68bd92fc",
+    "socket": null
+}  
+[2024-06-24 14:28:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has requested to become a vendor",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/user\/userUpgradeRequest",
+    "idNotification": "f88c7861-94a3-48f1-a725-9ee0f4334f77",
+    "socket": null
+}  
+[2024-06-24 14:28:54] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-11] with payload:
+{
+    "message": "Your upgrade request has approved already",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/user\/dashboard",
+    "idNotification": "e7004346-bd0a-4eca-a9a1-946df0bec0bc",
+    "userId": 11,
+    "socket": null
+}  
+[2024-06-24 16:17:25] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has created hotel Satrangi Hotel",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/15",
+    "idNotification": "8e2afdfb-00d4-42b1-b92e-6057f56e73f1",
+    "socket": null
+}  
+[2024-06-24 17:13:30] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has created space Vaibhav Apartments",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/space\/edit\/12",
+    "idNotification": "0e1b25bf-faf6-448d-a19c-16cf10c69660",
+    "socket": null
+}  
+[2024-06-24 17:17:54] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vaibhav Bhand has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/report\/booking",
+    "idNotification": "3293e072-73ba-489d-91e8-972437d9f767",
+    "socket": null
+}  
+[2024-06-24 17:17:54] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-7] with payload:
+{
+    "message": "Vaibhav Bhand has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Test\">",
+    "link": "https:\/\/clubsilicon.in\/vendor\/booking-report",
+    "idNotification": "6432be94-e7f8-497f-89dc-7e7d6f1e2908",
+    "userId": 7,
+    "socket": null
+}  
+[2024-06-24 17:24:04] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Test has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Test\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/report\/booking",
+    "idNotification": "7a56170c-00a9-4856-b682-39bf90ac1404",
+    "socket": null
+}  
+[2024-06-24 17:24:04] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-11] with payload:
+{
+    "message": "Test has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"Vaibhav Bhand\">",
+    "link": "https:\/\/clubsilicon.in\/vendor\/booking-report",
+    "idNotification": "b04e7eb5-ead7-4dfc-b367-2f1db5d5a6a9",
+    "userId": 11,
+    "socket": null
+}  

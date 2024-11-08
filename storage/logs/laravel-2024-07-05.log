@@ -1,0 +1,41 @@
+[2024-07-05 09:19:46] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Hotel Comfort Executive New has been deleted by demoa demoa",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=17",
+    "idNotification": "34ad02f7-a795-4704-bed4-42aee78c9773",
+    "socket": null
+}  
+[2024-07-05 09:19:46] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-16] with payload:
+{
+    "message": "Hotel Comfort Executive New has been deleted by demoa demoa",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"demoa demoa\">",
+    "link": "https:\/\/clubsilicon.in\/user\/hotel?id=17",
+    "idNotification": "7a79371f-bf7f-4457-a0d5-e0cb36560156",
+    "userId": 16,
+    "socket": null
+}  
+[2024-07-05 15:49:28] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "System Admin has created hotel Spree Shivai Hotel",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel\/edit\/18",
+    "idNotification": "c9ae514e-8995-4f84-b183-d9f50d36b6b3",
+    "socket": null
+}  
+[2024-07-05 17:23:45] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Spree Shivai Hotel was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=18",
+    "idNotification": "32ddc257-5d35-4095-a6b4-72e9bcef0dd4",
+    "socket": null
+}  
+[2024-07-05 17:25:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Spree Shivai Hotel was updated to Publish by System Admin",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/clubsilicon.in\/images\/avatar.png\" alt=\"System Admin\">",
+    "link": "https:\/\/clubsilicon.in\/admin\/module\/hotel?id=18",
+    "idNotification": "3194c3f5-e490-41f8-b039-559326a0fe10",
+    "socket": null
+}  
